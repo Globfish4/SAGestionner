@@ -1,0 +1,86 @@
+
+############## NEW BILAN ################
+le : 07/07/2023
+derniers paiements : le 05/07/2023
+dsg
+j : 70.00
+jj : 0.00
+
+############## NEW BILAN ################
+le : 07/07/2023
+derniers paiements : le 05/07/2023
+dsg
+j : 70.00
+jj : 0.00
+
+############## NEW BILAN ################
+le : 07/07/2023
+derniers paiements : le 05/07/2023
+dsg
+j : 70.00
+jj : 0.00
+
+############## NEW BILAN ################
+le : 07/07/2023
+derniers paiements : le 05/07/2023
+dsg
+j : 70.00
+jj : 0.00
+
+############## NEW BILAN ################
+le : 07/07/2023
+derniers paiements : le 05/07/2023
+dsg
+j : 70.00
+jj : 0.00
+
+############## NEW BILAN ################
+le : 07/07/2023
+derniers paiements : le 05/07/2023
+dsg
+j : 70.00
+jj : 0.00
+
+############## NEW BILAN ################
+le : 07/07/2023
+derniers paiements : le 05/07/2023
+dsg
+j : 70.00
+jj : 0.00
+
+############## NEW BILAN ################
+le : 07/07/2023
+derniers paiements : le 05/07/2023
+dsg
+j : 70.00
+jj : 0.00
+
+############## NEW BILAN ################
+le : 07/07/2023
+derniers paiements : le 05/07/2023
+dsg
+j : 70.00
+jj : 0.00
+
+############## NEW BILAN ################
+le : 07/07/2023
+derniers paiements : le 05/07/2023
+dsg
+j : 70.00
+jj : 0.00
+
+############## NEW BILAN ################
+le : 08/07/2023
+derniers paiements : le 05/07/2023
+dsg
+j : 70.00
+jj : 0.00
+
+############## NEW BILAN ################
+le : 08/07/2023
+derniers paiements : le 05/07/2023
+dsg
+j : 70.00
+jj : 0.00
+oui : 0.00
+non : 0.00

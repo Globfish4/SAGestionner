@@ -1,0 +1,14 @@
+Voici le format du fichier
+%%SAName%%
+%name%date%value%
+%name%date%value%
+%name%date%value%
+%name%date%value%
+%name%date%value%
+%%SAName%%
+%name%date%value%
+%name%date%value%
+%name%date%value%
+%name%date%value%
+%name%date%value%
+

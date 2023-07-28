@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1060</width>
+    <height>967</height>
+   </rect>
+  </property>
+  <property name="acceptDrops">
+   <bool>true</bool>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <layout class="QGridLayout" name="gridLayout_2">
+    <item row="0" column="0">
+     <widget class="QTabWidget" name="tabWidget">
+      <property name="currentIndex">
+       <number>0</number>
+      </property>
+      <property name="movable">
+       <bool>false</bool>
+      </property>
+      <property name="tabBarAutoHide">
+       <bool>false</bool>
+      </property>
+      <widget class="QWidget" name="SA">
+       <attribute name="title">
+        <string>SA</string>
+       </attribute>
+       <widget class="QGroupBox" name="groupBox_5">
+        <property name="geometry">
+         <rect>
+          <x>270</x>
+          <y>200</y>
+          <width>491</width>
+          <height>391</height>
+         </rect>
+        </property>
+        <property name="title">
+         <string>Bouffe</string>
+        </property>
+        <layout class="QGridLayout" name="gridLayout_11">
+         <item row="2" column="0">
+          <widget class="QPushButton" name="pushButton_24">
+           <property name="text">
+            <string>Add transaction</string>
+           </property>
+          </widget>
+         </item>
+         <item row="1" column="0">
+          <widget class="QScrollArea" name="scrollArea_5">
+           <property name="verticalScrollBarPolicy">
+            <enum>Qt::ScrollBarAlwaysOn</enum>
+           </property>
+           <property name="sizeAdjustPolicy">
+            <enum>QAbstractScrollArea::AdjustToContents</enum>
+           </property>
+           <property name="widgetResizable">
+            <bool>false</bool>
+           </property>
+           <widget class="QWidget" name="scrollAreaWidgetContents_5">
+            <property name="enabled">
+             <bool>true</bool>
+            </property>
+            <property name="geometry">
+             <rect>
+              <x>0</x>
+              <y>0</y>
+              <width>451</width>
+              <height>490</height>
+             </rect>
+            </property>
+            <layout class="QGridLayout" name="gridLayout_12" rowstretch="0,0,0,0,0,0,0,0">
+             <property name="sizeConstraint">
+              <enum>QLayout::SetMinimumSize</enum>
+             </property>
+             <item row="2" column="0">
+              <widget class="QWidget" name="widget_35" native="true">
+               <layout class="QGridLayout" name="gridLayout_44">
+                <item row="0" column="0">
+                 <widget class="QPushButton" name="pushButton_64">
+                  <property name="text">
+                   <string>edit</string>
+                  </property>
+                 </widget>
+                </item>
+               </layout>
+              </widget>
+             </item>
+             <item row="3" column="0">
+              <widget class="QWidget" name="widget_46" native="true">
+               <layout class="QGridLayout" name="gridLayout_56">
+                <item row="0" column="0">
+                 <widget class="QPushButton" name="pushButton_75">
+                  <property name="text">
+                   <string>edit</string>
+                  </property>
+                 </widget>
+                </item>
+               </layout>
+              </widget>
+             </item>
+             <item row="4" column="0">
+              <widget class="QWidget" name="widget_47" native="true">
+               <layout class="QGridLayout" name="gridLayout_57">
+                <item row="0" column="0">
+                 <widget class="QPushButton" name="pushButton_76">
+                  <property name="text">
+                   <string>edit</string>
+                  </property>
+                 </widget>
+                </item>
+               </layout>
+              </widget>
+             </item>
+             <item row="7" column="0">
+              <widget class="QWidget" name="widget_50" native="true">
+               <layout class="QGridLayout" name="gridLayout_60">
+                <item row="0" column="0">
+                 <widget class="QPushButton" name="pushButton_79">
+                  <property name="text">
+                   <string>edit</string>
+                  </property>
+                 </widget>
+                </item>
+               </layout>
+              </widget>
+             </item>
+             <item row="1" column="0">
+              <widget class="QWidget" name="widget_34" native="true">
+               <layout class="QGridLayout" name="gridLayout_43">
+                <item row="0" column="0">
+                 <widget class="QPushButton" name="pushButton_63">
+                  <property name="text">
+                   <string>edit</string>
+                  </property>
+                 </widget>
+                </item>
+               </layout>
+              </widget>
+             </item>
+             <item row="5" column="0">
+              <widget class="QWidget" name="widget_48" native="true">
+               <layout class="QGridLayout" name="gridLayout_58">
+                <item row="0" column="0">
+                 <widget class="QPushButton" name="pushButton_77">
+                  <property name="text">
+                   <string>edit</string>
+                  </property>
+                 </widget>
+                </item>
+               </layout>
+              </widget>
+             </item>
+             <item row="6" column="0">
+              <widget class="QWidget" name="widget_49" native="true">
+               <layout class="QGridLayout" name="gridLayout_59">
+                <item row="0" column="0">
+                 <widget class="QPushButton" name="pushButton_78">
+                  <property name="text">
+                   <string>edit</string>
+                  </property>
+                 </widget>
+                </item>
+               </layout>
+              </widget>
+             </item>
+            </layout>
+           </widget>
+          </widget>
+         </item>
+        </layout>
+       </widget>
+      </widget>
+      <widget class="QWidget" name="tab">
+       <attribute name="title">
+        <string>Charts</string>
+       </attribute>
+      </widget>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1060</width>
+     <height>22</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
